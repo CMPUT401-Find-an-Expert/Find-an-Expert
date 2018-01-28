@@ -1,2 +1,2 @@
-# Find-an-Expert
-This will be all our wiki's and documentation
+# Find-an-Expert Description
+Develop a service that helps anyone search for a University of Alberta staff member using subject keywords. Media organizations, graduate students and industry professionals are always looking for information about University staff. This service will show a list of professors that match their search criteria with their corresponding departments and fields of research. From here, users can compare professors and find the information they need.
